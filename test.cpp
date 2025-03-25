@@ -2,5 +2,5 @@
 
 int main()
 {
-    int ex = 0;
+    int good = 0;
 }
